@@ -7,3 +7,4 @@ git tutorial by T.lalita
 
 - Bob Cat bob@mail.com
 - Tom Cat tom@mail.com
+- Marry Lamb mary@mail.com
